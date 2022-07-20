@@ -1,0 +1,29 @@
+<XMBML version="1.0"> 
+
+<XMBML version="1.0"> 
+
+	<!-- Fãs. -->
+	<View id="Fans items">
+		<Attributes>
+			<T key="option 00">
+				<P key="title"><>Naruto</></P> <P key="info"><>net_package_install</></P> <P key="pkg_src"><>https://download1500.mediafire.com/1gyhcibydqyg/z10pytzrwkqa2s5/Naruto+Shippuden+-+Ultimate+Ninja+5%5BSLES55605%5D+%28JTS+MODDER+OFC%29.pkg</></P> <P key="pkg_src_qa"><>https://download1500.mediafire.com/1gyhcibydqyg/z10pytzrwkqa2s5/Naruto+Shippuden+-+Ultimate+Ninja+5%5BSLES55605%5D+%28JTS+MODDER+OFC%29.pkg</></P> <P key="content_name"><>tool_pkg_install_pc</></P> <P key="prod_pict_path"><>/dev_hdd0/store/JXL/IMG/Jogos/DevsFans/00.png</></P>
+ 			</T>
+			<T key="option 01"> 
+			<P key="title"><>Guitar Hero Brazucas 2</></P> <P key="info"><>net_package_install</></P> <P key="pkg_src"><>https://download2264.mediafire.com/yl7t4qbr2zgg/2zdabegovm7ghl3/Guitar+Hero+2+Brazucas+%5BSLUS66612%5D+%28JTS+MODDER+OFC%29.pkg</></P> <P key="pkg_src_qa"><>https://download2264.mediafire.com/yl7t4qbr2zgg/2zdabegovm7ghl3/Guitar+Hero+2+Brazucas+%5BSLUS66612%5D+%28JTS+MODDER+OFC%29.pkg</></P> <P key="content_name"><>tool_pkg_install_pc</></P> <P key="prod_pict_path"><>/dev_hdd0/store/JXL/IMG/Jogos/DevsFans/01.png</></P>
+ 			</T>
+ 			<T key="option 02">
+				<P key="title"><>Grand Theft Auto Anime</></P> <P key="info"><>net_package_install</></P> <P key="pkg_src"><>https://download1501.mediafire.com/s3p5vcsjvbxg/cv5aj7j2ughw7ga/Grand+Theft+Auto+-+Anime+%28JTS+MODDER+OFC%29.pkg</></P> <P key="pkg_src_qa"><>https://download1501.mediafire.com/s3p5vcsjvbxg/cv5aj7j2ughw7ga/Grand+Theft+Auto+-+Anime+%28JTS+MODDER+OFC%29.pkg</></P> <P key="content_name"><>tool_pkg_install_pc</></P> <P key="prod_pict_path"><>/dev_hdd0/store/JXL/IMG/Jogos/DevsFans/02.png</></P>
+ 			</T>
+  			<T key="option 03">
+				<P key="title"><>Gears of Kombat</></P> <P key="info"><>net_package_install</></P> <P key="pkg_src"><>https://download740.mediafire.com/3ivxprfl0wmg/45rrp8awrf0o1yk/Gears+of+Kombat+%28JTS+MODDER+OFC%29.pkg</></P> <P key="pkg_src_qa"><>https://download740.mediafire.com/3ivxprfl0wmg/45rrp8awrf0o1yk/Gears+of+Kombat+%28JTS+MODDER+OFC%29.pkg</></P> <P key="content_name"><>tool_pkg_install_pc</></P> <P key="prod_pict_path"><>/dev_hdd0/store/JXL/IMG/Jogos/DevsFans/03.png</></P>
+ 			</T>
+		</Attributes>
+     <Items>
+				<Q class="type:x-xmb/module-action" key="option 00" attr="option 00" />
+				<Q class="type:x-xmb/module-action" key="option 01" attr="option 01" />
+				<Q class="type:x-xmb/module-action" key="option 02" attr="option 02" />
+				<Q class="type:x-xmb/module-action" key="option 03" attr="option 03" />
+     </Items>
+	</View>
+
+</XMBML>
